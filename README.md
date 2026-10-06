@@ -1,9 +1,4 @@
 # OS_Assignment_7_xv6-
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # XV6 Synchronization, Deadlock Detection & Priority Scheduling Report
 
 ## Executive Summary
